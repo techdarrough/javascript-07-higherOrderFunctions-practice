@@ -1,3 +1,5 @@
+// NOTE: please make sure you have a strong understanding of arrow functions before doing this activity
+
 const originalArray = [5, 933, 26, 33, 20, 10, 555, 884, 2, 10];
 
 // 1. Use "Array.map" to Show the Original Array Again
