@@ -6,7 +6,10 @@ let answer1div = document.querySelector("#answer1");
 // 2. Use "Array.map" to Show the Original Array Multiplied by 2
 let answer2div = document.querySelector("#answer2");
 
-// 3. Use "Array.filter" to Show Even Numbers
+// 3. Use "Array.filter" to Show Only the Number 26
+let answer3div = document.querySelector("#answer3");
+
+// 4. Use "Array.filter" to Show Even Numbers
 // hint: explore the concept of 'modulus', which gives divides and gives the answer of the remainder
 // for example,
 // 5 % 2 === 1 (this reads as "5 modulus 2 is equal to 1")
@@ -16,7 +19,7 @@ let answer2div = document.querySelector("#answer2");
 // 1 % 2 === 1
 // ... so any number % 2 that equals 0 is even
 // ... and any number % 2 that equals 1 is odd
-let answer3div = document.querySelector("#answer3");
+let answer4div = document.querySelector("#answer4");
 
 // 4. Use "Array.filter" to Show Odd Numbers
-let answer4div = document.querySelector("#answer4");
+let answer5div = document.querySelector("#answer5");
